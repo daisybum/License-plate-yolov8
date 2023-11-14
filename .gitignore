@@ -128,7 +128,7 @@ dmypy.json
 .pyre/
 
 # Custom ignore
-#data/
+data/
 model/
 runs/
 .idea
